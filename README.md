@@ -3,8 +3,8 @@
 ## Objective
 This project attempts to show the interplay between different frameworks in the field of data. The tools that are used in this project are:
 
-Docker - containerisation and standardisation of processes
-Postgres - Database to store data
+- Docker - containerisation and standardisation of processes
+- Postgres - Database to store data
 
 This project uses Python, SQL and BASH.
 
